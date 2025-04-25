@@ -11,7 +11,7 @@ pygame.display.set_caption("Игра Снайпер")
 icon = pygame.image.load("img/yP9EzmDF1dY.jpg")
 pygame.display.set_icon(icon)
 
-target_img = pygame.image.load("img/205798053943a1cdfa9d6fda7446a83c.jpg")
+target_img = pygame.image.load("img/yabloko.jpg")
 target_width = 80
 target_height = 80
 target_x = random.randint(0, SCREEN_WIDTH - target_width)
